@@ -7,6 +7,7 @@
             <v-ons-icon icon="ion-navicon, material: md-menu"></v-ons-icon>
           </v-ons-toolbar-button>
         </div>
+        <h1>ニキきつい</h1>
       </v-ons-toolbar>
       <div style="text-align: center; padding-top:10px">Hello World!</div>
       <p style="text-align: center">
